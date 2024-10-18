@@ -26,3 +26,4 @@ Para alcançar os objetivos propostos, utilizaremos os seguintes métodos e mate
 2. **Dados**: Serão coletados dados a partir de projetos reais de software, comparando defeitos identificados por testes manuais versus automação de testes.
 3. **Métricas**: As métricas analisadas incluirão número de defeitos detectados, tempo de execução dos testes, tempo de entrega de versões e custo de implementação dos testes.
 4. **Análise Estatística**: Serão realizados testes de hipóteses e análises comparativas para validar os efeitos da automação na redução de defeitos e outros impactos relevantes.
+5. **Amostragem**: Projetos de software que utilizam diferentes níveis de automação de testes.
