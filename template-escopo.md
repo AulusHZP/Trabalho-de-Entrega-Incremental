@@ -24,6 +24,5 @@ Para alcançar os objetivos propostos, utilizaremos os seguintes métodos e mate
 
 1. **Ferramentas de Automação**: Serão avaliadas ferramentas como Selenium, JUnit, Jenkins e outras populares no mercado de automação de testes.
 2. **Dados**: Serão coletados dados a partir de projetos reais de software, comparando defeitos identificados por testes manuais versus automação de testes.
-3. **Questionários**: Aplicaremos questionários a desenvolvedores e engenheiros de teste para obter insights sobre a adoção da automação e os resultados percebidos.
-4. **Métricas**: As métricas analisadas incluirão número de defeitos detectados, tempo de execução dos testes, tempo de entrega de versões e custo de implementação dos testes.
-5. **Análise Estatística**: Serão realizados testes de hipóteses e análises comparativas para validar os efeitos da automação na redução de defeitos e outros impactos relevantes.
+3. **Métricas**: As métricas analisadas incluirão número de defeitos detectados, tempo de execução dos testes, tempo de entrega de versões e custo de implementação dos testes.
+4. **Análise Estatística**: Serão realizados testes de hipóteses e análises comparativas para validar os efeitos da automação na redução de defeitos e outros impactos relevantes.
