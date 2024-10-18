@@ -2,7 +2,8 @@
 
 * Aulus Arcanjo Alves Batista
 * Leonardo de Freitas Viana
-* Nome do orientador acadêmico e de conteúdo: [Inserir nome do orientador]
+* Nome do aluno 3 (se houver)
+* Nome do orientador acadêmico e de conteúdo: [Lesandro Ponciano dos Santos]
 
 # Tema
 O tema tratado na pesquisa é a **Automação de Testes e seus Efeitos na Redução de Defeitos em Software**. Esta pesquisa explora como a implementação de testes automatizados pode melhorar a qualidade do software, reduzindo o número de defeitos e aumentando a eficiência dos processos de desenvolvimento.
