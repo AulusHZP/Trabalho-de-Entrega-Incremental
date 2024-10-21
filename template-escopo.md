@@ -2,7 +2,7 @@
 
 * Aulus Arcanjo Alves Batista
 * Leonardo de Freitas Viana
-* Nome do aluno 3 (se houver)
+* Henrique Leite Najar
 * Nome do orientador acadêmico e de conteúdo: [Lesandro Ponciano dos Santos]
 
 # Tema
