@@ -3,7 +3,7 @@
 * Aulus Arcanjo Alves Batista
 * Leonardo de Freitas Viana
 * Henrique Leite Najar
-* Nome do orientador acadêmico e de conteúdo: [Lesandro Ponciano dos Santos]
+* Nome do orientador acadêmico e de conteúdo: Lesandro Ponciano dos Santos
 
 # Tema
 O tema tratado na pesquisa é previsão de falhas em sistemas complexos.
