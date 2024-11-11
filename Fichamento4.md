@@ -1,6 +1,6 @@
 # Deep Learning-Based Method for the Robust and Efficient Fault Diagnosis in the Electric Power System
 
-Referência: Yoon, D.-H., & Yoon, J. (2022). Deep learning-based method for the robust and efficient fault diagnosis in the electric power system. IEEE Access, 10, 44660-44670. DOI:10.1109/ACCESS.2022.3170685.
+Yoon, D.-H., & Yoon, J. (2022). Deep learning-based method for the robust and efficient fault diagnosis in the electric power system. IEEE Access, 10, 44660-44670. DOI: [10.1109/ACCESS.2022.3170685.](https://ieeexplore.ieee.org/document/9763506)
 
 ## 1. Fichamento de Conteúdo
 
