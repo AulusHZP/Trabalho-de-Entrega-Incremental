@@ -1,6 +1,6 @@
 # Formal Verification of a Hybrid Machine Learning-Based Fault Prediction Model in Internet of Things Applications
 
-Referência: Souri, A., et al. (2020). Formal verification of a hybrid machine learning-based fault prediction model in Internet of Things applications. IEEE Access, 8, 23863-23873. DOI:10.1109/ACCESS.2020.2967629.
+Souri, A., et al. (2020). Formal verification of a hybrid machine learning-based fault prediction model in Internet of Things applications. IEEE Access, 8, 23863-23873. DOI: [10.1109/ACCESS.2020.2967629.](https://ieeexplore.ieee.org/document/8963605)
 
 ## 1. Fichamento de Conteúdo
 
