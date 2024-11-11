@@ -1,6 +1,6 @@
 # Predictive Maintenance Decision Making Based on Reinforcement Learning in Multistage Production Systems
 
-Referência: Feng, M., & Li, Y. (2022). Predictive maintenance decision making based on reinforcement learning in multistage production systems. IEEE Access, 10, 18910-18920. DOI:10.1109/ACCESS.2022.3151170.
+Referência: Feng, M., & Li, Y. (2022). Predictive maintenance decision making based on reinforcement learning in multistage production systems. IEEE Access, 10, 18910-18920. DOI: [10.1109/ACCESS.2022.3151170.](https://ieeexplore.ieee.org/document/9712336)
 
 ## 1. Fichamento de Conteúdo
 
