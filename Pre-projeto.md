@@ -14,9 +14,9 @@
 <br/>
 3. Resolver este problema é relevante porque: A previsão eficiente de falhas pode evitar paradas inesperadas, reduzir custos operacionais e aumentar a confiabilidade e a disponibilidade de sistemas complexos. Técnicas baseadas em Deep Learning oferecem a vantagem de capturar padrões não lineares e interdependentes dos dados, proporcionando uma maior precisão na antecipação de falhas.<br/> 
 <br/>
-4. O objetivo geral deste trabalho é: Desenvolver um modelo de previsão de falhas em sistemas complexos utilizando técnicas de Deep Learning para melhorar a precisão das previsões e reduzir o tempo de inatividade inesperado.<br/>
+4. Desenvolver um modelo que utilize técnicas de Deep Learning para melhorar a previsão de falhas em sistemas complexos, visando reduzir o tempo de inatividade e melhorar a eficiência operacional.<br/>
 <br/> 
-5. Os *três* objetivos específicos deste trabalho são: (1)Identificar padrões de comportamento relacionados à falha em sistemas complexos: Coletar e analisar dados históricos para identificar características e padrões que indiquem a iminência de falhas. Esse objetivo foca na fase exploratória de análise dos dados dos sistemas, buscando compreender quais variáveis influenciam mais no comportamento que precede falhas.(2)Desenvolver um modelo de Deep Learning para previsão de falhas: Construir um modelo de aprendizado profundo que seja capaz de aprender padrões de falha a partir dos dados coletados. Este modelo será treinado e validado usando técnicas avançadas de aprendizado supervisionado, visando maximizar a precisão das previsões em sistemas complexos.(3)Validar e avaliar o desempenho do modelo em cenários reais ou simulados: Aplicar o modelo desenvolvido em sistemas reais ou simulações realistas, avaliando seu desempenho em termos de precisão, recall, e outras métricas pertinentes. O objetivo é verificar a aplicabilidade prática do modelo e otimizar seus parâmetros para obter um desempenho consistente em diversos cenários.<br/>
+5. Os *três* objetivos específicos deste trabalho são: (1)Coletar e preparar dados históricos do sistema para análise.(2)Desenvolver um modelo simples de Deep Learning para prever falhas, utilizando dados históricos.(3)Testar o modelo desenvolvido para verificar se ele consegue prever falhas de forma satisfatória.<br/>
 <br/>
 
 ## Fundamentação Teórica
