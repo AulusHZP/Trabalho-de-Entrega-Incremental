@@ -8,7 +8,7 @@
 
 ## Introdução
 
-1.A área da Engenharia de Software tratada neste trabalho é: Previsão de Falhas em Sistemas Complexos, utilizando técnicas de Deep Learning para melhorar a capacidade de antecipação de falhas e otimizar a confiabilidade dos sistemas.<br/>
+1. A área da Engenharia de Software tratada neste trabalho é: Previsão de Falhas em Sistemas Complexos, utilizando técnicas de Deep Learning para melhorar a capacidade de antecipação de falhas e otimizar a confiabilidade dos sistemas.<br/>
 <br/>
 2. O problema que este trabalho busca resolver nessa área é: Como prever falhas de forma eficaz em sistemas complexos que apresentam alta variabilidade e interdependência de componentes. Métodos tradicionais muitas vezes falham em capturar a complexidade e os sinais sutis que indicam falhas iminentes, resultando em perdas financeiras e em disponibilidade do sistema.<br/>
 <br/>
