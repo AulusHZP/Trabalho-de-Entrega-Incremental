@@ -8,16 +8,15 @@
 
 ## Introdução
 
-1. A área da Engenharia de Software tratada neste trabalho é: Previsão de Falhas em Sistemas Complexos, utilizando técnicas de Deep Learning para melhorar a capacidade de antecipação de falhas e otimizar a confiabilidade dos sistemas.<br/>
-<br/>
-2. O problema que este trabalho busca resolver nessa área é: Como prever falhas de forma eficaz em sistemas complexos que apresentam alta variabilidade e interdependência de componentes. Métodos tradicionais muitas vezes falham em capturar a complexidade e os sinais sutis que indicam falhas iminentes, resultando em perdas financeiras e em disponibilidade do sistema.<br/>
-<br/>
-3. Resolver este problema é relevante porque: A previsão eficiente de falhas pode evitar paradas inesperadas, reduzir custos operacionais e aumentar a confiabilidade e a disponibilidade de sistemas complexos. Técnicas baseadas em Deep Learning oferecem a vantagem de capturar padrões não lineares e interdependentes dos dados, proporcionando uma maior precisão na antecipação de falhas.<br/> 
-<br/>
-4. Desenvolver um modelo que utilize técnicas de Deep Learning para melhorar a previsão de falhas em sistemas complexos, visando reduzir o tempo de inatividade e melhorar a eficiência operacional.<br/>
-<br/> 
-5. Os *três* objetivos específicos deste trabalho são: (1)Coletar e preparar dados históricos do sistema para análise.(2)Desenvolver um modelo simples de Deep Learning para prever falhas, utilizando dados históricos.(3)Testar o modelo desenvolvido para verificar se ele consegue prever falhas de forma satisfatória.<br/>
-<br/>
+1. A área da Engenharia de Software tratada neste trabalho é: Previsão de Falhas em Sistemas Complexos, utilizando técnicas de Deep Learning para melhorar a capacidade de antecipação de falhas e otimizar a confiabilidade dos sistemas.
+
+2. O problema que este trabalho busca resolver nessa área é: Como prever falhas de forma eficaz em sistemas complexos que apresentam alta variabilidade e interdependência de componentes. Métodos tradicionais muitas vezes falham em capturar a complexidade e os sinais sutis que indicam falhas iminentes, resultando em perdas financeiras e em disponibilidade do sistema.
+
+3. Resolver este problema é relevante porque: A previsão eficiente de falhas pode evitar paradas inesperadas, reduzir custos operacionais e aumentar a confiabilidade e a disponibilidade de sistemas complexos. Técnicas baseadas em Deep Learning oferecem a vantagem de capturar padrões não lineares e interdependentes dos dados, proporcionando uma maior precisão na antecipação de falhas.
+
+4. Desenvolver um modelo que utilize técnicas de Deep Learning para melhorar a previsão de falhas em sistemas complexos, visando reduzir o tempo de inatividade e melhorar a eficiência operacional. 
+
+5. Os *três* objetivos específicos deste trabalho são: (1)Coletar e preparar dados históricos do sistema para análise.(2)Desenvolver um modelo simples de Deep Learning para prever falhas, utilizando dados históricos.(3)Testar o modelo desenvolvido para verificar se ele consegue prever falhas de forma satisfatória.
 
 ## Fundamentação Teórica
 
