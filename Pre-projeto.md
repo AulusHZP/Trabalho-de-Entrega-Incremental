@@ -21,7 +21,7 @@
 ## Fundamentação Teórica
 
 1. O conceito/teoria principal associado a este trabalho é _manutenção preditiva em sistemas de produção_. A sua definição neste trabalho é "um modelo de decisão baseado em aprendizado por reforço em sistemas de produção multiestágios, otimizando a relação entre custos e desempenho do sistema​", conforme definido no trabalho "Predictive Maintenance Decision Making Based
-on Reinforcement Learning in Multistage Production Systems" ([LINK DO TRABALHO](https://ieeexplore.ieee.org/document/9712336)) pelo autor Feng e Li (2022).
+on Reinforcement Learning in Multistage Production Systems" ([https://ieeexplore.ieee.org/document/9712336](https://ieeexplore.ieee.org/document/9712336)) pelo autor Feng e Li (2022).
 
 2. O conceito/teoria secundário associado a este trabalho é _a verificação formal utilizando métodos matemáticos para garantir que modelos preditivos de falhas estejam em conformidade com especificações comportamentais, minimizando erros críticos_. A sua definição neste trabalho é "aplicar técnicas de verificação formal a modelos híbridos de aprendizado de máquina, como MLP e PSO, garantindo precisão e eficiência na identificação de falhas em aplicações IoT​", conforme definido no trabalho "Formal Verification of a Hybrid Machine Learning-Based Fault Prediction Model in Internet of Things Applications " (  LINK DO TRABALHO ), pelos autores Souri et al. (2020).
 
