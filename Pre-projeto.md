@@ -36,8 +36,22 @@ on Reinforcement Learning in Multistage Production Systems" ([https://ieeexplore
 
 ## Materiais e Métodos
 
-1. O tipo de pesquisa adotado neste trabalho é ...., por que ...
-1. Os materiais utilizados neste trabalho são .... [ex.: software, computadores, dados, etc]
-1. Os métodos empregados neste trabalho são .... [ex.: método de amostragem, método de análise de correlação, método de agrupamento, etc]
-1. As métricas de avaliação são .... [ex.: tempo de resposta, taxa de erros, mutation score, cobertura, latência, etc]
-1. As etapa de execução do trabalho são .... [listar as etapa de execução]
+1- O tipo de pesquisa adotado neste trabalho é exploratória e experimental, porque buscamos testar ferramentas e conceitos de inteligência artificial para prever falhas em máquinas, usando recursos acessíveis e explorando soluções práticas para manutenção preditiva.
+
+2- Os materiais utilizados neste trabalho são: Computadores: Um notebook ou desktop básico, com acesso à internet.
+Softwares: Python e bibliotecas gratuitas como NumPy, Pandas e Scikit-learn. Google Colab, uma ferramenta online gratuita para rodar códigos Python, caso o computador tenha limitações. 
+Dados: Conjuntos de dados públicos ou exemplos simulados, criados para representar falhas de máquinas.
+
+3- Os métodos empregados neste trabalho são: Método de Modelagem: Criação de modelos simples de aprendizado de máquina, como árvores de decisão ou regressão, para prever falhas em sistemas.
+Método de Simulação de Dados: Geração de dados fictícios para simular falhas, caso dados reais não estejam disponíveis.
+Método de Testes: Divisão dos dados em treinamento (para ensinar o modelo) e teste (para verificar sua precisão).
+
+4- As métricas de avaliação são: Acurácia: Para medir quantas vezes o modelo acerta. Simplicidade e Eficiência: Avaliar se o modelo pode ser usado facilmente com os recursos disponíveis.
+
+5- As etapas de execução do trabalho são:
+Etapa 1: Pesquisar sobre manutenção preditiva e inteligência artificial.
+Etapa 2: Obter ou criar dados representando falhas de máquinas.
+Etapa 3: Implementar os modelos utilizando Python e bibliotecas disponíveis.
+Etapa 4: Testar os modelos para verificar a precisão e desempenho.
+Etapa 5: Analisar os resultados e registrar as conclusões para avaliação.
+
