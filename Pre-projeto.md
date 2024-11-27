@@ -40,20 +40,26 @@
 
 1- O tipo de pesquisa adotado neste trabalho é exploratória e experimental, porque buscamos testar ferramentas e conceitos de inteligência artificial para prever falhas em máquinas, usando recursos acessíveis e explorando soluções práticas para manutenção preditiva.
 
-2- Os materiais utilizados neste trabalho são: Computadores: Um notebook ou desktop básico, com acesso à internet.
-Softwares: Python e bibliotecas gratuitas como NumPy, Pandas e Scikit-learn. Google Colab, uma ferramenta online gratuita para rodar códigos Python, caso o computador tenha limitações. 
-Dados: Conjuntos de dados públicos ou exemplos simulados, criados para representar falhas de máquinas.
+2- Computadores: Notebook ou desktop básico com acesso à internet.
+Softwares: Python e bibliotecas como NumPy, Pandas, Scikit-learn, TensorFlow/Keras e Matplotlib. Utilizou-se também o Google Colab para treinamento com GPU.
+Dados: Dataset público AI4I 2020 Predictive Maintenance Dataset (UCI Machine Learning Repository e Kaggle), contendo informações de sensores de máquinas industriais, como temperatura, torque e desgaste.
 
-3- Os métodos empregados neste trabalho são: Método de Modelagem: Criação de modelos simples de aprendizado de máquina, como árvores de decisão ou regressão, para prever falhas em sistemas.
-Método de Simulação de Dados: Geração de dados fictícios para simular falhas, caso dados reais não estejam disponíveis.
-Método de Testes: Divisão dos dados em treinamento (para ensinar o modelo) e teste (para verificar sua precisão).
+3- Métodos Empregados: Modelagem: Criação de redes neurais profundas com TensorFlow/Keras para prever falhas em máquinas, usando camadas ocultas para capturar padrões complexos.
+Pré-processamento dos Dados: Remoção de colunas irrelevantes, como 'UDI' e 'Product ID', aplicação de One-Hot Encoding para variáveis categóricas e Normalização dos dados com StandardScaler.
+Divisão dos Dados: Separação dos dados em 80% para treino e 20% para teste.
 
-4- As métricas de avaliação são: Acurácia: Para medir quantas vezes o modelo acerta. Simplicidade e Eficiência: Avaliar se o modelo pode ser usado facilmente com os recursos disponíveis.
+4-  Implementação do Modelo: Estrutura do Modelo: Rede neural com duas camadas ocultas:
+Entrada: 64 neurônios (ReLU).
+Camada Oculta: 32 neurônios (ReLU).
+Saída: 1 neurônio (Sigmóide).
+Treinamento: O modelo foi treinado por 50 épocas, com lote de 10 amostras, utilizando GPU no Google Colab.
 
-5- As etapas de execução do trabalho são:
-Etapa 1: Pesquisar sobre manutenção preditiva e inteligência artificial.
-Etapa 2: Obter ou criar dados representando falhas de máquinas.
-Etapa 3: Implementar os modelos utilizando Python e bibliotecas disponíveis.
-Etapa 4: Testar os modelos para verificar a precisão e desempenho.
-Etapa 5: Analisar os resultados e registrar as conclusões para avaliação.
+5 - Avaliação do Modelo: Métricas: Acurácia e Perda (Loss) durante o treinamento e validação. Geração de relatórios de classificação para medir precisão, recall e F1-score. Visualização: Gráficos de perda e acurácia para verificar a evolução do treinamento e desempenho do modelo.
 
+6- As etapas de execução do trabalho são:
+Etapa 1: Pesquisa teórica sobre manutenção preditiva e aprendizado profundo.
+Etapa 2: Coleta ou criação de dados simulando falhas.
+Etapa 3: Implementação dos modelos com Python.
+Etapa 4: Treinamento e validação dos modelos.
+Etapa 5: Análise dos resultados e geração de gráficos e relatórios
+Etapa 6: Documentação dos resultados e discussão sobre melhorias futuras.
